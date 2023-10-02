@@ -1,0 +1,57 @@
+.header-row {
+    background-color: #AAAAAA;
+}
+
+.filter-section {
+    padding: 15px 30px;
+    margin: 15px;
+    background-color: #777777;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.search-by-dropdown {
+    width: 24%;
+    margin: 0px 15px !important;
+    background-color: #DDDDDD;
+}
+
+.search-field {
+    width: 30%;
+    background-color: #DDDDDD;
+}
+
+.status-dropdown {
+    width: 24%;
+    margin: 0px 15px !important;
+    background-color: #DDDDDD;
+}
+
+.submit-btn {
+    height: 40px;
+    width: 130px;
+    margin-left: 15px !important;
+    background-color: #333333 !important;
+}
+
+.submit-btn-spinner {
+    color: #DDDDDD !important;
+}
+
+.table-body {
+    width: 98% !important;
+    margin-left: 15px !important;
+}
+
+.grid-spinner-container {
+    display: flex;
+    justify-content: center;
+}
+
+.grid-spinner {
+    width: 50px;
+    height: 50px;
+    color: #444444 !important;
+    margin: 70px 0px 300px 0px;
+}
